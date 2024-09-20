@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=brown&left_text=Hello%20Visitors)
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&duration=4000&pause=500&color=F3F0F5F0&width=435&lines=Hey+Everyone%2C+I'm+Aneena+Anto👋+;A+passionate+full-stack+developer%2F+learner%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=2500&pause=700&width=435&lines=Hey+there+!+I'm+Aneena+Anto%F0%9F%91%8B;A+passionate+full-stack+developer+%26+learner%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">From concept to code, I weave the web of tomorrow - fullstack dreams with an Indian touch. 🇮🇳💡</h3>
  <br/>
