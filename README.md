@@ -26,4 +26,5 @@
 <a href="http://www.linkedin.com/in/aneena-anto-895732295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneenaanto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aneenaanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneenaanto" height="30" width="40" /></a>
 <a href="https://discord.gg/1269229901987450881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1269229901987450881" height="30" width="40" /></a>
+<img align="center" src="https://cdn3.iconfinder.com/data/icons/design-and-development-1-6/136/26-1024.png" height="30" width="32" />
 </p>
