@@ -22,8 +22,8 @@
  </div>
  <h3 align="center">Let’s connect to enhance our professional network:</h3>
 <p align="center">
- <a href="https://mail.google.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="aneenaanto05@gmail.com" height="45" width="42" /></a>
-<a href="https://linkedin.com/in/aneena anto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneena anto" height="30" width="40" /></a>
+ <a href="aneenaanto05@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="aneenaanto05@gmail.com" height="45" width="42" /></a>
+<a href="https://linkedin.com/in/aneenaanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneenaanto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aneenaanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneenaanto" height="30" width="40" /></a>
 <a href="https://discord.gg/1269229901987450881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1269229901987450881" height="30" width="40" /></a>
 </p>
