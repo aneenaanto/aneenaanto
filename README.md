@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=brown&left_text=Hello%20Visitors)
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=F764CD&width=500&height=70&lines=Hey+there!+I%E2%80%99m+Aneena+Anto👋%2C;A+passionate+full-stack+developer+and+learner💻" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&duration=4000&pause=500&color=F3F0F5F0&width=435&lines=Hey+Everyone%2C+I'm+Aneena+Anto👋+;A+passionate+full-stack+developer%2F+learner%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">From concept to code, I weave the web of tomorrow - fullstack dreams with an Indian touch. 🇮🇳💡</h3>
  <br/>
@@ -20,4 +20,9 @@
 
 ⚡ Fun fact_I’m convinced that coffee is my best friend and that it has its own API—especially during late-night coding sessions!
  </div>
- 
+ <h3 align="center">Let’s connect to enhance our professional network:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/aneena anto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneena anto" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aneenaanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneenaanto" height="30" width="40" /></a>
+<a href="https://discord.gg/1269229901987450881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1269229901987450881" height="30" width="40" /></a>
+</p>
