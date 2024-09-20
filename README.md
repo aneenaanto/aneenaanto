@@ -36,9 +36,9 @@
 <h3 align="center">GitHub Trophies🏆:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneenaanto" alt="aneenaanto" /></a></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aneenaanto&show_icons=true&locale=en" alt="aneenaanto" height="200" width="40%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneenaanto&show_icons=true&locale=en" alt="aneenaanto" height="200" width="400" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aneenaanto&" alt="aneenaanto" height="200" width="40%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneenaanto&" alt="aneenaanto" height="200" width="400"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneenaanto&show_icons=true&locale=en&layout=compact" alt="aneenaanto" height="200" width="400" /></p>
 </div>
